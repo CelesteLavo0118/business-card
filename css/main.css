@@ -138,6 +138,10 @@ p{
     display: block;
   }
 
+  .wrapper{
+    max-width: 35em;
+  }
+
 }
 
 @media print{
