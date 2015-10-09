@@ -86,8 +86,51 @@ p{
   padding-right: .2em ;
 }
 
+.nav2{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: black;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  clear: both;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.nav2 a{
+  display:inline-block;
+  text-decoration: none;
+  color: white;
+}
+
+.nav2 a:hover{
+  color: lightblue;
+}
+
+.nav2 ol{
+  padding: 0;
+}
+
+.nav2 li{
+  list-style-type: none;
+  padding-top: .1em ;
+  padding-bottom: .1em ;
+  display:inline-block;
+  padding-left: .2em ;
+  padding-right: .2em ;
+}
+
 .logos{
   width: 30px;
+}
+
+footer{
+  padding: 1em;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  color: white;
+  clear: both;
+  background-color: black;
 }
 
 @media only screen and (min-width: 5em){
