@@ -120,6 +120,11 @@ p{
   padding-right: .2em ;
 }
 
+.info{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+
 .logos{
   width: 30px;
 }
